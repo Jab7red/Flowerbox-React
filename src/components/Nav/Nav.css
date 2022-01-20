@@ -1,0 +1,6 @@
+.Nav-Container {
+    margin: 10px;
+    background-color: #92b2ba;
+    display: flex;
+    justify-content: space-evenly;
+}

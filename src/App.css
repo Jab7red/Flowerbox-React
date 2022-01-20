@@ -1,0 +1,15 @@
+.App {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+section.Products {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.Product-img {
+    height: 300px;
+    object-fit: cover;
+}

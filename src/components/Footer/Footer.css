@@ -1,0 +1,25 @@
+.Footer-Container {
+    margin: 10px;
+    padding: 10px;
+    background-color: #eeeeee;
+    
+}
+
+.Footer-Img {
+    float: left;
+    width: 20%;
+}
+
+.Footer-Img > img {
+    margin-top: 10px;
+    height: 70px;
+}
+
+.Footer-Service {
+    margin: 0 20%;
+}
+
+.Footer-Info {
+    float: right;
+    width: 20%;
+}
